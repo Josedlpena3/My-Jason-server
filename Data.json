@@ -1,0 +1,48 @@
+{
+    "id": "sensor_001",
+    "mediciones": [
+      {
+        "temp": 25.3,
+        "presion": 1012,
+        "viento": 12.5,
+        "ubicacion": "Plaza San Martín, Córdoba",
+        "fecha y hora": "2025-03-27T14:30:00"
+      },
+      {
+        "temp": 24.8,
+        "presion": 1010,
+        "viento": 10.2,
+        "ubicacion": "Nueva Córdoba, Córdoba",
+        "fecha y hora": "2025-03-27T14:35:00"
+      },
+      {
+        "temp": 26.1,
+        "presion": 1013,
+        "viento": 8.4,
+        "ubicacion": "Alta Córdoba, Córdoba",
+        "fecha y hora": "2025-03-27T14:40:00"
+      },
+      {
+        "temp": 23.5,
+        "presion": 1011,
+        "viento": 9.8,
+        "ubicacion": "Villa Allende, Córdoba",
+        "fecha y hora": "2025-03-27T14:45:00"
+      },
+      {
+        "temp": 24.0,
+        "presion": 1010,
+        "viento": 11.0,
+        "ubicacion": "Zona Sur, Córdoba",
+        "fecha y hora": "2025-03-27T14:50:00"
+      },
+      {
+        "temp": 25.2,
+        "presion": 1012,
+        "viento": 10.5,
+        "ubicacion": "Calera ",
+        "fecha y hora": "2025-03-27T14:55:00"
+      }
+    ]
+  }
+  
